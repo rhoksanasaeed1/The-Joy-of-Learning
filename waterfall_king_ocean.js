@@ -1,0 +1,3 @@
+for(let i = 0; i < 2000; i++) {
+    console.log("The joy of learning is something that can never be taken away. Whether you are young or old, it is never too late to pursue knowledge that will help you reach your goals. It’s important to continue learning throughout life, as it makes you a more rounded individual, and enhances your skillset. Education is a lifelong journey, and the joy of learning is something that will carry you through it. The more you learn, the more you can help others learn. So learn, be curious, and never stop pursuing knowledge!");
+}
